@@ -1,0 +1,94 @@
+#kapsayan{
+    overflow:auto;
+    height:900px;
+}
+
+
+#sol{
+background-image:url(kutuphane.jpg);
+height:630px;
+width:200px;
+position: relative;
+float:left;
+}
+ #top h1{
+  margin-bottom:30px;
+  text-align:left;
+  margin-left:30px;
+  display: inline;
+  color:white;
+  display:inline ;
+}
+#icerik{
+margin-left:10px;
+padding-left:20px;
+ height:350px; 
+ width:900px;  
+ background-color:rgb(247, 244, 241);
+ margin-right:100px;
+ float:left;
+}
+ #bar input[type="submit"]{
+width:100px;
+height:auto;
+border-radius:15px;
+background-color: tomato;
+margin:20px;
+font-size:18px;
+color:white;
+border-color:whitesmoke;
+    
+}
+.style{
+ font-size:20px;  
+ font-weight:bold;
+ color:rgb(10, 156, 156) ; 
+}
+ fieldset{
+    display: inline;
+}
+#update{
+float:left;
+height:250px;
+border-radius:5px;
+}
+#insert{
+float:left;
+height:250px;
+border-radius:5px;
+}
+#delete{
+float:left;
+width:150px;
+height:100px;
+}
+#top{
+position: relative;
+width:920px;
+height:70px;
+background-color:rgb(10, 156, 156);
+margin-left:210px ;
+margin-bottom:10px;
+}
+#top input[type="text"]{
+    float:right;
+   margin-right:2px;
+   margin-bottom: auto;
+   width:100px;
+   
+}
+ #top input[type="submit"]{
+    float:right;
+    margin-right:20px ;
+    width:50px ;
+    color:red;
+    
+}
+#bar{
+float:left;
+margin-left:5px;
+margin-top:20px;
+}
+.sakla{
+    visibility: hidden;
+}

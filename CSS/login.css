@@ -1,0 +1,41 @@
+body{
+    background-image:url(turkuaz.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    }
+    #user{
+    position: relative;
+    background-color:black;
+    width:230px;
+    height:400px;
+    padding:25px;	
+    margin: auto;
+    border-radius:15px;	
+    border-style:outset;
+    opacity:0.7;
+    margin-top:50px;
+    }
+    
+    input[type="text"]{
+    border-bottom-color:#00ffff;
+    border-top-color:#FF7F50;
+    border-left-color:#FF7F50;
+    border-right-color:#00ffff;
+    height:25px;
+    width:200px;
+    }
+    input[type="submit"]{
+    background-color:#1b8bb4;
+    border-color:white;	
+    height:30px;
+    width:100px;
+    color:white;
+    font-size:18px;
+    margin-right:10px;
+    }
+    #center{
+     text-align:center; 
+    }
+    .color{
+    background-color: #FF7F50;
+    }
